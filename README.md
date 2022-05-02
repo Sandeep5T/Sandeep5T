@@ -3,9 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Sandeep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandeeppalagati6/)](https://www.linkedin.com/in/sandeeppalagati6/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Sandeep-green)](https://www.akash)
 
-I'm
-UI Developer
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development, design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Database Querying(SQL,MongoDB)
+ I am Sandeep, an engineer graduated from JNTU Anantapur in 2015.
+      I am currently working as a UI Developer in a retail based company. I
+      started my career as .net developer in 2015 after graduation and currently
+      working as developer using React & Javascript. I have a total of 6.5 years of experience in
+      the industry.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/sandeep5T/count.svg)
