@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sandeep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandeeppalagati6/)](https://www.linkedin.com/in/sandeeppalagati6/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Sandeep-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-Sandeep-green)](https://sandeep5t.github.io/SandeepCodeProfile/)
 
  I am Sandeep, an engineer graduated from JNTU Anantapur in 2015.
       I am currently working as a UI Developer in a retail based company. I
